@@ -1,6 +1,6 @@
  [![Build Status](https://travis-ci.org/schamane/node-syslog.png)](https://travis-ci.org/schamane/node-syslog)
 
-# Node-Syslog
+# Node-Syslog - try 1
 
 
 Node-Syslog is no more supported and do not work with current Node version.
